@@ -10,8 +10,6 @@ I’m a Full Stack Engineer who enjoys turning ideas into working products and m
 ![](https://nirzak-streak-stats.vercel.app/?user=kashaf-ansari-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf-ansari-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kashaf-ansari-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
