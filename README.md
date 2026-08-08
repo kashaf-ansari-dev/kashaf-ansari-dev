@@ -6,6 +6,14 @@
 
 ---
 
+## 🛠️ CURRENTLY WORKING ON
+
+- 📱 React Native & mobile development
+- 🧩 Open-source projects
+- 🚀 Building and experimenting with new product ideas
+
+---
+
 ## 📊 GITHUB STATS
 
 <p align="center">
